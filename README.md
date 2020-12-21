@@ -7,7 +7,10 @@ For example, I like python to automatically format my initialized wikipedia page
 
 We'll see what else crops up here, but for now this is strictly formatting games for use with dokuwiki
 
-
+TODO: 
+- Write a script for generating **themes** pages
+- Fix books generator so it can handle middle names/initials
+- Fix it so that it can handle articles
 
 
 catch me on twitter @elenatryan
